@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: deeppink;
+}
+
+#t{
+    width: 200px;
+    height: 200px;
+}
+#c{
+    width: 200px;
+    height: 200px;
+}
+#d{
+    width: 300px;
+    height: 300px;
+}
